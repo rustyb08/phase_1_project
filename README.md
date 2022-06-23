@@ -17,11 +17,11 @@ Nearly 700 movies are released every year (over the last decade) ranging cute, a
 ## The Data
 
 The data was pulled from five sources (not all sources were used for this analysis).
-- Box Office Mojo
-- IMDB
-- The Numbers
-- Rotten Tomatoes
-- TheMovieDB
+- [Box Office Mojo](https://github.com/rustyb08/phase_1_project/blob/main/Data/bom.movie_gross.csv)
+- [IMDB](https://github.com/rustyb08/phase_1_project/blob/main/Data/im.db.zip)
+- [The Numbers](https://github.com/rustyb08/phase_1_project/blob/main/Data/tn.movie_budgets.csv)
+- [Rotten Tomatoes](https://github.com/rustyb08/phase_1_project/blob/main/Data/rt.reviews.tsv)
+- [TheMovieDB](https://github.com/rustyb08/phase_1_project/blob/main/Data/tmdb.movies.csv)
 
 The Rotten Tomatoes and TheMovieDB data were not used as ratings, reviews, and popularity were not a part of my analysis. 
 
